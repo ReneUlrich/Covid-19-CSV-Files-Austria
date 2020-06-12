@@ -1,94 +1,94 @@
-Bezirk;Anzahl
-Amstetten;300
-Baden;176
-Bludenz;258
-Braunau am Inn;133
-Bregenz;279
-Bruck an der Leitha;116
-Bruck-Mürzzuschlag;52
-Deutschlandsberg;49
-Dornbirn;156
-Eferding;53
-Eisenstadt(Stadt);19
-Eisenstadt-Umgebung;23
-Feldkirch;214
-Feldkirchen;15
-Freistadt;120
-Gänserndorf;105
-Gmünd;14
-Gmunden;73
-Graz(Stadt);471
-Graz-Umgebung;248
-Grieskirchen;74
-Güssing;24
-Hallein;70
-Hartberg-Fürstenfeld;318
-Hermagor;5
-Hollabrunn;39
-Horn;63
-Imst;294
-Innsbruck-Land;391
-Innsbruck-Stadt;410
-Jennersdorf;10
-Kirchdorf an der Krems;44
-Kitzbühel;369
-Klagenfurt Land;42
-Klagenfurt Stadt;91
-Korneuburg;172
-Krems an der Donau(Stadt);41
-Krems(Land);158
-Kufstein;523
-Landeck;991
-Leibnitz;183
-Leoben;25
-Lienz;153
-Liezen (inkl. Gröbming);89
-Lilienfeld;51
-Linz(Stadt);325
-Linz-Land;215
-Mattersburg;53
-Melk;172
-Mistelbach;147
-Mödling;193
-Murau;7
-Murtal;32
-Neunkirchen;199
-Neusiedl am See;56
-Oberpullendorf;24
-Oberwart;134
-Perg;261
-Reutte;57
-Ried im Innkreis;45
-Rohrbach;154
-Salzburg(Stadt);134
-Salzburg-Umgebung;201
-Sankt Johann im Pongau;434
-Sankt Pölten(Land);269
-Sankt Pölten(Stadt);92
-Sankt Veit an der Glan;52
-Schärding;58
-Scheibbs;103
-Schwaz;352
-Spittal an der Drau;42
-Steyr(Stadt);63
-Steyr-Land;182
-Südoststeiermark;62
-Tamsweg;22
-Tulln;177
-Urfahr-Umgebung;282
-Villach Land;48
-Villach Stadt;23
-Vöcklabruck;108
-Voitsberg;106
-Völkermarkt;54
-Waidhofen an der Thaya;73
-Waidhofen an der Ybbs(Stadt);25
-Weiz;199
-Wels(Stadt);58
-Wels-Land;80
-Wien(Stadt);3468
-Wiener Neustadt(Land);86
-Wiener Neustadt(Stadt);56
-Wolfsberg;43
-Zell am See;362
-Zwettl;73
+Bezirk,Anzahl
+Amstetten,300
+Baden,176
+Bludenz,258
+Braunau am Inn,133
+Bregenz,279
+Bruck an der Leitha,116
+Bruck-Mürzzuschlag,52
+Deutschlandsberg,49
+Dornbirn,156
+Eferding,53
+Eisenstadt(Stadt),19
+Eisenstadt-Umgebung,23
+Feldkirch,214
+Feldkirchen,15
+Freistadt,120
+Gänserndorf,105
+Gmünd,14
+Gmunden,73
+Graz(Stadt),471
+Graz-Umgebung,248
+Grieskirchen,74
+Güssing,24
+Hallein,70
+Hartberg-Fürstenfeld,318
+Hermagor,5
+Hollabrunn,39
+Horn,63
+Imst,294
+Innsbruck-Land,391
+Innsbruck-Stadt,410
+Jennersdorf,10
+Kirchdorf an der Krems,44
+Kitzbühel,369
+Klagenfurt Land,42
+Klagenfurt Stadt,91
+Korneuburg,172
+Krems an der Donau(Stadt),41
+Krems(Land),158
+Kufstein,523
+Landeck,991
+Leibnitz,183
+Leoben,25
+Lienz,153
+Liezen (inkl. Gröbming),89
+Lilienfeld,51
+Linz(Stadt),325
+Linz-Land,215
+Mattersburg,53
+Melk,172
+Mistelbach,147
+Mödling,193
+Murau,7
+Murtal,32
+Neunkirchen,199
+Neusiedl am See,56
+Oberpullendorf,24
+Oberwart,134
+Perg,261
+Reutte,57
+Ried im Innkreis,45
+Rohrbach,154
+Salzburg(Stadt),134
+Salzburg-Umgebung,201
+Sankt Johann im Pongau,434
+Sankt Pölten(Land),269
+Sankt Pölten(Stadt),92
+Sankt Veit an der Glan,52
+Schärding,58
+Scheibbs,103
+Schwaz,352
+Spittal an der Drau,42
+Steyr(Stadt),63
+Steyr-Land,182
+Südoststeiermark,62
+Tamsweg,22
+Tulln,177
+Urfahr-Umgebung,282
+Villach Land,48
+Villach Stadt,23
+Vöcklabruck,108
+Voitsberg,106
+Völkermarkt,54
+Waidhofen an der Thaya,73
+Waidhofen an der Ybbs(Stadt),25
+Weiz,199
+Wels(Stadt),58
+Wels-Land,80
+Wien(Stadt),3468
+Wiener Neustadt(Land),86
+Wiener Neustadt(Stadt),56
+Wolfsberg,43
+Zell am See,362
+Zwettl,73
